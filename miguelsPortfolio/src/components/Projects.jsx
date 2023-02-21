@@ -7,7 +7,7 @@ export const Projects = () => {
 
   return (
     <section className='mt-20 my-20'>
-      <h1 className='text-5xl text-center'>Projects</h1>
+      <h1 className='text-5xl text-center font-semibold'>Projects</h1>
       <p className='text-center mb-4'>Things I've Built</p>
       <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 flex justify-center'>
         {projectsArr.map((project, index) => (
