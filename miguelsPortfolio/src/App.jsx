@@ -8,7 +8,7 @@ import { Projects } from './components/Projects'
 function App() {
 
   return (
-    <div className="App px-5 lg:px-20 md:px-10">
+    <div className="App mx-10 lg:mx-20">
      <NavBar />
      <LandingPage />
      <TechStack />

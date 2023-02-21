@@ -19,11 +19,11 @@ export const TechStack = () => {
     const logos = [Html,Css,Javascript,ReactIcon,Redux,Express,git,gitHub,MySQL,VsCode,Boostrap,Tailwind]
     return (
         <section className='mt-20'>
-            <h1 className='text-center'>Tech Stack</h1>
+            <h1 className='text-center text-5xl'>Tech Stack</h1>
             <p className='text-center mb-4'>Technologies I've worked with</p>
-            <div className="grid grid-cols-3 md:grid-cols-6 lg:grid-cols-6 gap-2 max-w-screen-lg mx-auto" >
+            <div className="grid grid-cols-3 md:grid-cols-6 lg:grid-cols-6 mx-auto" >
               {logos.map((logo, index) => (
-                <div key={index} className=" p-2 flex justify-center">
+                <div key={index} className=" p-2 flex justify-center mt-10">
                   <img src={logo} alt="logo" className="h-20" />
                 </div>
               ))}
