@@ -18,7 +18,7 @@ export const TechStack = () => {
 
     const logos = [Html,Css,Javascript,ReactIcon,Redux,Express,git,gitHub,MySQL,VsCode,Boostrap,Tailwind]
     return (
-        <section className='mt-20'>
+        <section className='py-20 bg-Very-Light-Gray  px-10 lg:px-20 '>
             <h1 className='text-center text-5xl font-semibold'>Tech Stack</h1>
             <p className='text-center mb-4'>Technologies I've worked with</p>
             <div className="grid grid-cols-3 md:grid-cols-6 lg:grid-cols-6 mx-auto" >

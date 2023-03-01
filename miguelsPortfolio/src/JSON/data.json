@@ -5,7 +5,7 @@
         "title": "Pokedex",
         "description": "This is a Pokedex Application that was built to help users gather data about different pokemon",
         "image": "src/images/pokedex.png",
-        "techStack": ["Html", "Css", "Javascript"],
+        "techStack": "HTML,CSS,JavaScript",
         "github": "https://github.com/MikeProduce/Pokedex-project",
         "liveSite": "https://mikeproduce.github.io/Pokedex-project/"
       },
@@ -14,7 +14,7 @@
         "title": "Ecommerce static site",
         "description": "A frontendmentor challange that required me to make a static ecommerce site",
         "image": "src/images/ecomerce.png",
-        "techStack": ["HTML", "CSS", "JavaScript"],
+        "techStack": "HTML,CSS,JavaScript",
         "github": "https://github.com/MikeProduce/ecommerce-product-page-main#built-with",
         "liveSite": "https://mikeproduce.github.io/ecommerce-product-page-main/"
       },
@@ -23,7 +23,7 @@
         "title": "Pokedex",
         "description": "This is a Pokedex Application that was built to help users gather data about different pokemon",
         "image": "src/images/pokedex.png",
-        "techStack": ["Html", "Css", "Javascript"],
+        "techStack": "HTML,CSS,JavaScript",
         "github": "https://github.com/MikeProduce/Pokedex-project",
         "liveSite": "https://mikeproduce.github.io/Pokedex-project/"
       }
