@@ -2,7 +2,7 @@ import React from 'react';
 
 export const NavBar = () => {
   return (
-    <nav className='flex justify-between bg-Very-Light-Gray px-10 lg:px-20 py-2'>
+    <nav className='flex justify-between bg-Very-Light-Gray px-10 lg:px-20 py-2 drop-shadow-xl'>
         <ul className='flex p-4 items-center'>
             <li>Miguel</li>
             <li><i class="fa-sharp fa-solid fa-code"></i></li>
