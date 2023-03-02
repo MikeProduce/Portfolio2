@@ -6,7 +6,7 @@ export const Projects = () => {
   const projectsArr = projects.projects;
 
   return (
-    <section className='py-20  px-10 lg:px-20 bg-white'>
+    <section className='py-20 md:px-20  px-5 lg:px-20 bg-white lg:px-20'>
       <h1 className='text-5xl text-center font-semibold'>Projects</h1>
       <p className='text-center mb-4'>Things I've Built</p>
       <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 flex justify-center'>
